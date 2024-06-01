@@ -5,4 +5,5 @@
 # mon
 # sun 
 # friday
-
+# vip
+# good
